@@ -46,5 +46,5 @@ This project aims to predict the Urban Heat Island (UHI) Index for various locat
 ## Instructions
 - Upload the `submission.csv` file on the [EY Challenge Platform](https://challenge.ey.com) to get the score generated on the scoreboard.
 
-  <img src="EYscore.jpeg" alt="Screenshot" width="400">
+  <img src="EY_score.jpeg" alt="Screenshot" width="400">
 
